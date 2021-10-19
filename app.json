@@ -1,0 +1,25 @@
+{
+  "id": "01dc33ed-82f8-40d4-a903-7589e66360b6",
+  "name": "YOAIB Bank Integration",
+  "publisher": "Hammed",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 99999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
